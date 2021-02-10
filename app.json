@@ -1,0 +1,12 @@
+{
+  "name": "sticky-footer-with-animation",
+  "displayName": "sticky-footer-with-animation",
+  "expo": {
+    "name": "sticky-footer-with-animation",
+    "slug": "sticky-footer-with-animation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
